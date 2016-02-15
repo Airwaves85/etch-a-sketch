@@ -1,0 +1,25 @@
+.container {
+	background-color:red;
+	width:960px;
+	margin: 0 auto;
+}
+
+.square {
+	background-color:yellow;
+	/*float:left;*/
+	display:inline-block;
+	width:25px;
+	height:25px;
+	margin: 0 1px;
+}
+
+.clearLine {
+	clear:left;
+}
+
+#clearBtn{
+	background-color:coral;
+	margin:10px auto;
+    display:block;
+	padding:5px;
+}
